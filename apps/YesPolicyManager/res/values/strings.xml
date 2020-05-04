@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">YesPolicyManager</string>
+  <string name="app_text">
+    This Privacy Manager always allows policy checks, and is meant to be a
+    stand-in for testing.\n\nA typical Privacy Manager would have a UI where
+    the user can set their privacy policy.
+  </string>
+</resources>
